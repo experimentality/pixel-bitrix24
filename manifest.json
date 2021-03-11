@@ -1,7 +1,7 @@
 {
   "name": "bitrix24-pixel",
   "vendor": "experimentality",
-  "version": "0.1.1",
+  "version": "0.2.2",
   "title": "Bitrix 24 Pixel",
   "description": "Bitrix 24 Pixel",
   "billingOptions": {
@@ -16,7 +16,6 @@
     ]
   },
   "builders": {
-    "store": "0.x",
     "pixel": "0.x",
     "docs": "0.x"
   },
